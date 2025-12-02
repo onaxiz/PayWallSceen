@@ -9,9 +9,13 @@ import SwiftUI
 
 @main
 struct SubscriptionTestAppApp: App {
+    
+    @StateObject private var appState = AppStateViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
+                    .environmentObject(appState)
         }
     }
 }

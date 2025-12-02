@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+build/
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.xcworkspace
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Archives & symbols
+*.ipa
+*.dSYM/
+*.dSYM.zip
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Misc
+*.swp
+*.lock
