@@ -7,7 +7,6 @@ SwiftUI showcase приложения с онбордингом → paywall → 
 <div align="center">
   <img src="Screenshots/Simulator Screenshot - iPhone 16 - 2025-12-02 at 06.59.16.png" width="240" alt="Onboarding screen" />
   <img src="Screenshots/Simulator Screenshot - iPhone 16 - 2025-12-02 at 06.59.32.png" width="240" alt="Paywall screen" />
-  <img src="Screenshots/Simulator Screenshot - iPhone 16 - 2025-12-02 at 06.59.55.png" width="240" alt="Main screen" />
   <img src="Screenshots/Simulator Screenshot - iPhone 16 - 2025-12-02 at 07.00.02.png" width="240" alt="Main recommendations" />
 </div>
 
